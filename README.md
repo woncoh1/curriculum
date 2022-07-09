@@ -1,1 +1,4 @@
-# curriculum
+# Beginner's Programming Curriculum
+- Python
+- R
+- Julia
